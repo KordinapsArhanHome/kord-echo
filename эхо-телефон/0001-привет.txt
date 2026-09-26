@@ -1,0 +1,17 @@
+== ЗАДАНИЕ: 0001-привет.sh ==
+Linux localhost 5.15.78-android13-8-00009-gd1045a63f46e-ab10205258 #1 SMP PREEMPT Thu May 25 19:45:27 UTC 2023 aarch64 Android
+Sat Sep 26 12:53:48 MSK 2026
+ПУЛЬТ ЖИВ: терминальный мост Кординапс -> Termux работает
+README.md
+chitka-kanala.py
+dobavit-chaty.py
+mon-pozhar.py
+otpravka.py
+sessions
+канала-дамп.txt
+конфиг.json
+лиды.json
+монитор.log
+отчёт-рассылки.txt
+пожары.txt
+монитор: на посту
